@@ -8,3 +8,10 @@ Currently, I have included the following tools installation in Windows operating
 * HBase
 * Kafka
 * Cassandra
+
+## Hadoop Installation:
+### Prerequisties:
+* JRE 8
+* Any file archiver such as WinRAR or 7zip
+
+### Download location: https://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-3.3.5
